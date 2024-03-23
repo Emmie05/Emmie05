@@ -23,14 +23,14 @@
 
 ---
 
-### 🚀 <h3>About Me:</h3>
+### 🚀 About Me:
 
 - 🎓 I'm currently pursuing my degree in Electrical and Electronic Engineering at Fourah Bay College, while simultaneously studying Software Engineering at ALX Africa.
 - 💻 I'm passionate about exploring the intersection of hardware and software, and how they can be integrated to create innovative solutions.
 - 🌱 I'm continuously learning and expanding my skills in various programming languages, frameworks, and technologies.
 - 💡 I enjoy tackling complex problems and finding creative solutions through coding and electronics projects.
 - 🔭 I'm always on the lookout for new opportunities to collaborate on exciting projects and gain hands-on experience.
-
+- 😄 I'm lazy but hardworking and smart, lol
 ---
 
 ### 🔧 Languages and Tools:
