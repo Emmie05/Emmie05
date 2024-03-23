@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino Badge" />
   <img src="https://img.shields.io/badge/-MATLAB-FF7F2A?style=flat-square&logo=matlab&logoColor=white" alt="MATLAB Badge" />
   <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean Badge" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Badge" />
 </p>
 
 ---
@@ -46,6 +47,8 @@
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <br />
 
 ---
@@ -61,6 +64,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emmie05&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Emmie05&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=Emmie05&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
 
 ---
