@@ -1,12 +1,10 @@
-### Hi there 👋
-
 <!--
 **Emmie05/Emmie05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=900&lines=Hello+there!+👋;I'm+Emmanuel+Forster;Electrical+%26+Electronic+Engineering+Student;Software+Engineering+Student+%40+ALX+Africa" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&width=900&lines=Hello+there!+👋;I'm+Emmanuel+Forster;Electrical+%26+Electronic+Engineering+Student;Software+Engineering+Student+%40+ALX+Africa" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -25,7 +23,7 @@
 
 ---
 
-### 🚀 About Me:
+### 🚀 <h3>About Me:</h3>
 
 - 🎓 I'm currently pursuing my degree in Electrical and Electronic Engineering at Fourah Bay College, while simultaneously studying Software Engineering at ALX Africa.
 - 💻 I'm passionate about exploring the intersection of hardware and software, and how they can be integrated to create innovative solutions.
