@@ -9,13 +9,13 @@
   </a>
 </h1>
 
-<h4 align="center">An aspiring Engineer from humble beginnings, gently navigating the journey of learning; embracing each day as an opportunity to grow, explore, and tackle new challenges with humility and determination.</h4>
+<h4 align="center">An aspiring Engineer from humble beginnings...Nothing special</h4>
 
 ---
 
 ### 
 
-<h3 align="center">Electrical & Electrical Engineering Student with a special interest in Software Engineering 👨‍💻😊</h3>
+<h3 align="center">Electrical & Electrical Engineering Student 😊</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
@@ -33,10 +33,9 @@
 
 ### 🚀 About Me:
 
-- 🎓 I'm currently pursuing my degree in Electrical and Electronic Engineering at Fourah Bay College; simultaneously studying Software Engineering at ALX Africa.
-- 💻 I'm passionate about exploring the intersection of hardware and software, and how they can be integrated to create innovative solutions.
+- 🎓 I'm currently pursuing my degree in Electrical and Electronic Engineering at Fourah Bay College.
 - 🌱 I'm continuously learning and expanding my skills in various programming languages, frameworks, and technologies.
-- 💡 I enjoy tackling complex problems and finding creative solutions through coding and electronics projects.
+- 💡 I enjoy tackling complex problems and finding creative solutions through programming and electronics projects.
 - 🔭 I'm always on the lookout for new opportunities to collaborate on exciting projects and gain hands-on experience.
 
 ---
@@ -80,7 +79,7 @@
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=5EZ44KMQAW2ES)
 
-Your support means a lot to me 🤗
+🤗
 
 ---
 
