@@ -86,7 +86,7 @@
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=5EZ44KMQAW2ES)
 
-[![Donate with Crypto](https://img.shields.io/badge/Donate-Crypto-green.svg)](https://solana.com/send?address=YOUR_CRYPTO_ADDRESS_HERE)
+[![Donate with Crypto](https://img.shields.io/badge/Donate-Crypto-green.svg)](https://solana.com/send?address=6jhmM7tpvyYh5NvbP59DbtjgdtwhhXmFCGryaBMXiTQm)
 
 🤗
 
