@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-<h4 align="center">An aspiring Engineer from humble beginnings...Nothing special</h4>
+<h4 align="center">An aspiring Engineer</h4>
 
 ---
 
