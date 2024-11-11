@@ -32,6 +32,9 @@
   <img src="https://img.shields.io/badge/-Altium%20Designer-2C2C2C?style=flat-square&logo=altiumdesigner&logoColor=white" alt="Altium Designer Badge" />
   <img src="https://img.shields.io/badge/-AutoCAD-003B6F?style=flat-square&logo=autocad&logoColor=white" alt="AutoCAD Badge" />
   <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer Badge" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Badge" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart Badge" />
+  <img src="https://img.shields.io/badge/-Multisim-FF7F2A?style=flat-square&logo=multisim&logoColor=white" alt="Multisim Badge" />
 </p>
 
 ---
@@ -60,6 +63,8 @@
 <img align="left" alt="MySQL" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Flutter" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Dart" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <br />
 
 ---
@@ -83,9 +88,9 @@
 
 ### 💰 Support Me:
 
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=5EZ44KMQAW2ES)
+**Solana Wallet Address:** 6jhmM7tpvyYh5NvbP59DbtjgdtwhhXmFCGryaBMXiTQm
 
-[![Donate with Crypto](https://img.shields.io/badge/Donate-Crypto-green.svg)](https://solana.com/send?address=6jhmM7tpvyYh5NvbP59DbtjgdtwhhXmFCGryaBMXiTQm)
+**Binance ID:** 455762016
 
 🤗
 
