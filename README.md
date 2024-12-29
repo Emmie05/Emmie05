@@ -4,7 +4,8 @@
 
 ### 
 
-<h3 align="center">Electrical & Electrical Engineering Student </h3>
+<h3 align="center">EEE</h3>
+<br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
@@ -47,11 +48,14 @@
 <img align="left" alt="Flutter" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <br />
+<br />
+<br />
+<br />
 
 ---
 
 ### 📊 Top Languages:
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmie05&layout=compact&c%2B%2B&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
