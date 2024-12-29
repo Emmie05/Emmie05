@@ -1,17 +1,6 @@
 <!--
 **Emmie05/Emmie05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-###
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=400&width=900&lines=Hello+there!+👋;I'm+Emmanuel+Forster;Electrical+%26+Electronic+Engineering+Student+%40+Fourah+Bay+College" alt="Typing SVG" />
-  </a>
-</h1>
-
-<h4 align="center">An aspiring Engineer</h4>
-
----
 
 ### 
 
@@ -37,14 +26,6 @@
   <img src="https://img.shields.io/badge/-Multisim-FF7F2A?style=flat-square&logo=multisim&logoColor=white" alt="Multisim Badge" />
 </p>
 
----
-
-### 🚀 About Me:
-
-- 🎓 I'm currently pursuing my degree in Electrical and Electronic Engineering at Fourah Bay College.
-- 🌱 I'm continuously learning and expanding my skills in various programming languages, frameworks, and technologies.
-- 💡 I enjoy tackling complex problems and finding creative solutions through programming and electronics projects.
-- 🔭 I'm always on the lookout for new opportunities to collaborate on exciting projects and gain hands-on experience.
 ---
 
 ### 🔧 Languages and Tools:
@@ -86,26 +67,10 @@
 
 ---
 
-### 💰 Support Me:
-
-**Solana Wallet Address:** 6jhmM7tpvyYh5NvbP59DbtjgdtwhhXmFCGryaBMXiTQm
-
-**Binance ID:** 455762016
-
-🤗
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-forster-3ab072296" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="mailto:emmvicadforster@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" /></a>
-  <a href="https://twitter.com/EmmForster" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" /></a>
-</p>
-
-<p align="center">
-  <em>Feel free to follow me here on GitHub</em> 😊
+  <em>Feel free to follow me here on GitHub</em> 
   <br />
   <em>Let's connect and build something amazing together!</em>
 </p>
