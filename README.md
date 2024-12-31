@@ -56,14 +56,14 @@
 
 ### 📊 Top Languages:
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmie05&layout=pie-horizontal&c%2B%2B&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmie05&layout=pie&c%2B%2B&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 📈 Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmie05&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=prs,issues,contribs"
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmie05&show_icons=true&count_private=true&include_all_commits=true"
 alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Emmie05&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
   <br />
