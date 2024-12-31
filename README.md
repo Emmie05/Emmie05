@@ -56,7 +56,7 @@
 
 ### 📊 Top Languages:
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmie05&layout=donut-vertical&c%2B%2B&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Emm Forster's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmie05&layout=donut-vertical&c%2B%2B&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
