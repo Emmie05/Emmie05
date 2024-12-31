@@ -65,7 +65,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emmie05&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true"
 alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Emmie05" alt="GitHub Streak Stats" />
+  <img src="(https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=Emmie05&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
