@@ -51,12 +51,13 @@
 <br />
 <br />
 <br />
+<br />
 
 ---
 
 ### 📊 Top Languages:
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmie05&layout=pie&c%2B%2B&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmie05&layout=pie&c%2B%2B&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -65,11 +66,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emmie05&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true"
 alt="GitHub Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Emmie05&theme=whatsapp-light&border_radius=6&short_numbers=true" alt="GitHub Streak" /></a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Emmie05&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emmie05&theme=whatsapp-light&border_radius=6&short_numbers=true)](https://git.io/streak-stats)
-
 ---
 
 ### 🌐 Let's Connect
