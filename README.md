@@ -71,12 +71,13 @@ alt="GitHub Stats" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=Emmie05&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
+
 ---
 
 ### 🌐 Let's Connect
 
 <p align="center">
-  <em>Feel free to follow me here on GitHub</em> 
+  <em>Feel free to follow me here on GitHub</em>
   <br />
   <em>Let's connect and build something amazing together!</em>
 </p>
