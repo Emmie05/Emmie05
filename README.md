@@ -64,7 +64,7 @@
 ### 📈 Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmie05&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=whatsapp-light&border_radius=6"
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmie05&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true"
 alt="GitHub Stats" />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Emmie05&theme=whatsapp-light&border_radius=6&short_numbers=true" alt="GitHub Streak" /></a>
   <br />
