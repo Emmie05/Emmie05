@@ -57,7 +57,7 @@
 
 ### 📊 Top Languages:
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmie05&layout=pie&c%2B%2B&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmie05&layout=pie&c%2B%2B&langs_count=10&theme=whatsapp-light&border_radius=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
