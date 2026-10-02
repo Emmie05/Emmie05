@@ -17,7 +17,7 @@
 
 - 🎓 Electrical & Electronic Engineering graduate
 - 💻 Software developer: Python, JavaScript, Flutter & more
-- 💧 Engineer at **Guma Valley Water Company**, Freetown 🇸🇱
+- 💧 Engineer at **Guma Valley Water Company**, Freetown, Sierra Leone
 - 🗺️ Water distribution modeling with **EPANET** & **WaterGEMS**, GIS mapping with **QGIS**
 - ⚡ Hardware tinkering: Arduino, embedded systems & PCB design
 
