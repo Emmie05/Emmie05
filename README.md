@@ -8,7 +8,7 @@
   <img src="https://flagcdn.com/w40/gh.png" alt="Ghana" width="32" />
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&center=true&vCenter=true&width=540&lines=Electrical+%26+Electronic+Engineer;Software+Developer;Water+Engineer+%40+Guma+Valley+Water+Co.;EPANET+%C2%B7+WaterGEMS+%C2%B7+QGIS" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=900&center=true&vCenter=true&width=540&lines=Electrical+%26+Electronic+Engineer;Software+Developer;Water+Engineer+at+Guma+Valley+Water+Company" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -16,16 +16,16 @@
 ## 👤 About Me
 
 - 🎓 Electrical & Electronic Engineering graduate
-- 💻 Software developer — Python, JavaScript, Flutter & more
+- 💻 Software developer: Python, JavaScript, Flutter & more
 - 💧 Engineer at **Guma Valley Water Company**, Freetown 🇸🇱
 - 🗺️ Water distribution modeling with **EPANET** & **WaterGEMS**, GIS mapping with **QGIS**
-- ⚡ Hardware tinkering — Arduino, embedded systems & PCB design
+- ⚡ Hardware tinkering: Arduino, embedded systems & PCB design
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center"><strong>💻 Software Development</strong></p>
+<p align="center"><strong>Software Development</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript Badge" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean Badge" />
 </p>
 
-<p align="center"><strong>⚙️ Engineering &amp; Electronics</strong></p>
+<p align="center"><strong>Electrical &amp; Telecommunications Engineering</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-MATLAB-FF7F2A?style=flat-square" alt="MATLAB Badge" />
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino Badge" />
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer Badge" />
 </p>
 
-<p align="center"><strong>💧 Water Engineering &amp; GIS</strong></p>
+<p align="center"><strong>Water Engineering &amp; GIS</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS Badge" />
   <img src="https://img.shields.io/badge/-EPANET-0078D4?style=flat-square" alt="EPANET Badge" />
