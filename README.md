@@ -2,11 +2,11 @@
 **Emmie05/Emmie05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### UtopianDev 🍁| Lone Wolf 
-
-### 
-
-<h3 align="center"><img src="https://flagcdn.com/w40/sl.png" alt="Sierra Leone" width="28" /> <img src="https://flagcdn.com/w40/gh.png" alt="Ghana" width="28" /></h3>
+<h3 align="center">UtopianDev 🍁| Lone Wolf</h3>
+<p align="center">
+  <img src="https://flagcdn.com/w40/sl.png" alt="Sierra Leone" width="28" />
+  <img src="https://flagcdn.com/w40/gh.png" alt="Ghana" width="28" />
+</p>
 <br />
 
 <p align="center">
