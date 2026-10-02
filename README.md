@@ -4,7 +4,7 @@
 
 ### 
 
-<h3 align="center"><img src="https://flagcdn.com/w40/sl.png" alt="Sierra Leone" width="28" /> Utopia 🍁| Lone Wolf <img src="https://flagcdn.com/w40/gh.png" alt="Ghana" width="28" /></h3>
+ UtopianDev 🍁| Lone Wolf <h3 align="center"><img src="https://flagcdn.com/w40/sl.png" alt="Sierra Leone" width="28" /><img src="https://flagcdn.com/w40/gh.png" alt="Ghana" width="28" /></h3>
 <br />
 
 <p align="center">
